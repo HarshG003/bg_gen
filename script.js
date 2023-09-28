@@ -1,5 +1,3 @@
-// script.js
-
 const colorDisplay = document.getElementById("colorDisplay");
 const generateButton = document.getElementById("generateButton");
 const colorInput = document.getElementById("colorInput");
